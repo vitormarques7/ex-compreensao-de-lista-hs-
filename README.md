@@ -1,1 +1,1 @@
-# exerc-cios-compreens-o-de-lista-hs-
+# ex-compreensao-de-lista-hs-
